@@ -18,7 +18,7 @@
     "url": "https://github.com/demojavascript/test-heroku-app/issues"
   },
   "homepage": "https://github.com/demojavascript/test-heroku-app#readme",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.16.2"
   }
 }
